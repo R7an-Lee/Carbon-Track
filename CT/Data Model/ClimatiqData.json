@@ -1,0 +1,129 @@
+[
+    {
+        "co2e": 100.4,
+        "co2e_unit": "kg",
+        "name": "Black cab",
+        "activity_id": "passenger_vehicle-vehicle_type_black_cab-fuel_source_na-distance_na-engine_size_na",
+        "year": "2023",
+        "region": "US",
+        "category": "Road Travel"
+    },
+    {
+        "co2e": 9097.23,
+        "co2e_unit": "kg",
+        "name": "Steam and Heat",
+        "activity_id": "heat-and-steam-type_purchased",
+        "year": "2021",
+        "region": "US",
+        "category": "Heat and Steam"
+    },
+    {
+        "co2e": 1423.0,
+        "co2e_unit": "kg",
+        "name": "Electricity supplied from grid",
+        "activity_id": "electricity-energy_source_grid_mix",
+        "year": "2022",
+        "region": "US",
+        "category": "Electricity"
+    },
+    {
+        "co2e": 112.0,
+        "co2e_unit": "kg",
+        "name": "Electricity supplied from grid",
+        "activity_id": "electricity-energy_source_grid_mix",
+        "year": "2022",
+        "region": "US",
+        "category": "Electricity"
+    },
+    {
+        "co2e": 672.9,
+        "co2e_unit": "kg",
+        "name": "Electricity supplied from grid",
+        "activity_id": "electricity-energy_source_grid_mix",
+        "year": "2022",
+        "region": "US",
+        "category": "Electricity"
+    },
+    {
+        "co2e": 213.1,
+        "co2e_unit": "kg",
+        "name": "Electricity supplied from grid",
+        "activity_id": "electricity-energy_source_grid_mix",
+        "year": "2019",
+        "region": "US",
+        "category": "Electricity"
+    },
+    {
+        "co2e": 372.1,
+        "co2e_unit": "kg",
+        "name": "Electricity supplied from grid",
+        "activity_id": "electricity-energy_source_grid_mix",
+        "year": "2022",
+        "region": "US",
+        "category": "Electricity"
+    },
+    {
+        "co2e": 1872.4,
+        "co2e_unit": "kg",
+        "name": "Domestic flight jet aircraft - with RF effect",
+        "activity_id": "passenger_flight-route_type_domestic-aircraft_type_jet-distance_na-class_na-rf_included",
+        "year": "2020",
+        "region": "NZ",
+        "category": "Air Travel"
+    },
+    {
+        "co2e": 812.9,
+        "co2e_unit": "kg",
+        "name": "Domestic flight jet aircraft - with RF effect",
+        "activity_id": "passenger_flight-route_type_domestic-aircraft_type_jet-distance_na-class_na-rf_included",
+        "year": "2020",
+        "region": "NZ",
+        "category": "Air Travel"
+    },
+    {
+        "co2e": 503.12,
+        "co2e_unit": "kg",
+        "name": "Ferry (passenger with car)",
+        "activity_id": "passenger_ferry-route_type_car_passenger-fuel_source_na",
+        "year": "2022",
+        "region": "GB",
+        "category": "Sea Travel"
+    },
+    {
+        "co2e": 272.09,
+        "co2e_unit": "kg",
+        "name": "Ferry (passenger with car)",
+        "activity_id": "passenger_ferry-route_type_car_passenger-fuel_source_na",
+        "year": "2022",
+        "region": "GB",
+        "category": "Sea Travel"
+    },
+    {
+        "co2e": 72.09,
+        "co2e_unit": "kg",
+        "name": "Commuter Rail",
+        "activity_id": "passenger_train-route_type_commuter_rail-fuel_source_na",
+        "year": "2022",
+        "region": "US",
+        "category": "Rail Travel"
+    },
+    {
+        "co2e": 162.32,
+        "co2e_unit": "kg",
+        "name": "Commuter Rail",
+        "activity_id": "passenger_train-route_type_commuter_rail-fuel_source_na",
+        "year": "2022",
+        "region": "US",
+        "category": "Rail Travel"
+    },
+    {
+        "co2e": 129.0,
+        "co2e_unit": "kg",
+        "name": "Commuter Rail",
+        "activity_id": "passenger_train-route_type_commuter_rail-fuel_source_na",
+        "year": "2022",
+        "region": "US",
+        "category": "Rail Travel"
+    }
+]
+
